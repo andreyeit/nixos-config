@@ -1,0 +1,20 @@
+{
+  imports = [
+    ./audio.nix
+    ./bluetooth.nix
+    ./boot.nix
+    ./docker.nix
+    ./environment.nix
+    ./gaming.nix
+    ./greeter.nix
+    ./locale.nix
+    ./network.nix
+    ./niri.nix
+    ./nixos.nix
+    ./nvidia.nix
+    ./power.nix
+    ./qbittorrent.nix
+    ./user.nix
+    ./zram.nix
+  ];
+}
