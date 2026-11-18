@@ -10,6 +10,7 @@
     ./locale.nix
     ./network.nix
     ./niri.nix
+    ./nix-ld.nix
     ./nixos.nix
     ./nvidia.nix
     ./power.nix
